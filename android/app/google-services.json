@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671554158064",
+    "project_id": "tulahack-30d57",
+    "storage_bucket": "tulahack-30d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671554158064:android:55ef26d9eaa7f423f67135",
+        "android_client_info": {
+          "package_name": "com.example.tula_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671554158064-ugbcd3t536mbrkpn4eok29ph1p16hn22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Z1ZnPRXZUz_rYr9zasrSeV_wkRQsZTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671554158064-ugbcd3t536mbrkpn4eok29ph1p16hn22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671554158064-9tmhlpeuob94lruu1cmc1hrker98rrpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tulaHack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
